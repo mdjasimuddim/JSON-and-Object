@@ -1,0 +1,32 @@
+{
+    "student_Details": [
+      {
+        "name": "md jasim uddim",
+        "age": 25,
+        "email": "mdjasimuddimruet@gmail.com",
+        "language": [
+          "Html",
+          "css",
+          "Javascript",
+          "C++",
+          "phython"
+        ],
+        "Cgpa": 3.06,
+        "teams": [
+          {
+            "name": "samim",
+            "id": 1
+          },
+          {
+            "name": "hasan",
+            "id": 2
+          }
+        ]
+      },
+      {
+        "name":"Rahim ali",
+        "id":1803035,
+        "Nationality":"Bangladeshi"
+      }
+    ]
+  }

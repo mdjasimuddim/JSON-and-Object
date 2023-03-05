@@ -1,0 +1,27 @@
+{
+	"student_Details": [
+		{
+			"Name": "Md Jasim Uddim",
+			"Age": 25,
+			"CGPA": 3.06,
+			"Language": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Phython"
+			],
+			"Student_2": [
+				{
+					"Name_Details": "MD Rahim Mia",
+					"Age": 26,
+					"Language": [
+						"Hindi",
+						"English",
+						"Urdu"
+					]
+				}
+			],
+			"IsExpert": true
+		}
+	]
+}

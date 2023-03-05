@@ -1,0 +1,14 @@
+{
+    "Bangladesh":[
+        {
+            "place":"Rampura",
+            "cost":300,
+            "FarFrom":"10km"
+        },
+        {
+            "place":"Shahbag",
+            "cost":350,
+            "FarFrom":"12km"
+        }
+    ]
+}
